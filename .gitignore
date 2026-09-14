@@ -35,5 +35,8 @@ proguard-project.txt
 *.iml
 .idea
 
-#tests
-/test/
+#otros
+.agents/
+.github/
+.ORIGINAL_REQUEST.md
+.PROJECT.md
